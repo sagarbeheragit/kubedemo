@@ -1,5 +1,5 @@
 # kubedemo
-kubernetes demo
+This is simple example explaining the kubernetes demo
 # Docker File 
 The docker file uses the server.js file to implement a simple node application. You can build the image based on the dockerfile using thr docker build command.
 
